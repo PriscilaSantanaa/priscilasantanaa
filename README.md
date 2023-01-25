@@ -1,6 +1,7 @@
 ### Olá! Me chamo Priscila. ✨
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal 📕. Atualmente estou no segundo semestre, desenvolvendo e orientando meus estudos a linguagem de programação Python.
+Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal 📕. Atualmente estou no terceiro semestre, tenho como áreas de interesse Nuvem, IA e Design. 
+
 <div>
   <img align="left" alt="Picrew_Pri" height="130" style="border-radius:100px;"
 src="https://picrew.me/shareImg/org/202210/41329_0iQjM7lh.png">
