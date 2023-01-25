@@ -4,7 +4,7 @@ Sou estudante de AnÃ¡lise e Desenvolvimento de Sistemas no Instituto Federal ğŸ“
 
 <div>
   <img align="left" alt="Picrew_Pri" height="130" style="border-radius:100px;"
-src="https://picrew.me/shareImg/org/202210/41329_0iQjM7lh.png">
+src="https://cdn.picrew.me/shareImg/org/202301/707090_RuzbNf8j.png">
 </div>
 <div>
   <img align="right" alt="Gatinho_Gif" height="110"
