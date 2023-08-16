@@ -1,6 +1,6 @@
 ### Olá! Me chamo Priscila. ✨
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal 📕. Atualmente estou no quarto semestre, tenho como áreas de interesse Nuvem, IA e Redes de Computadores. 
+Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal 📕. Atualmente estou no quarto semestre, tenho como áreas de interesse Nuvem, IA e Redes de Computadores. Tenho conhecimento nas linguagens Python, C e Java.
 
 <div>
   <img align="left" alt="Picrew_Pri" height="130" style="border-radius:100px;"
