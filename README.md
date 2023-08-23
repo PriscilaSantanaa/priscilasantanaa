@@ -1,10 +1,11 @@
 ### Olá! Me chamo Priscila. ✨
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal 📕. Atualmente estou no quarto semestre, tenho como áreas de interesse Nuvem, IA e Redes de Computadores. Tenho conhecimento nas linguagens Python, C e Java.
+Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Bragança Paulista 📕. Atualmente estou no quarto semestre, utilizando como linguagens de programação Java e Python.
+Aqui eu compartilho algumas anotações de cursos e projetos da faculdade. ᓚᘏᗢ
 
 <div>
   <img align="left" alt="Picrew_Pri" height="130" style="border-radius:100px;"
-src="https://cdn.picrew.me/shareImg/org/202301/707090_RuzbNf8j.png">
+src="https://i.pinimg.com/originals/e2/ab/21/e2ab213dcf335c67dc8348c029c19b03.jpg">
 </div>
 <div>
   <img align="right" alt="Gatinho_Gif" height="110"
@@ -18,6 +19,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plai
   <img align="center" alt="Python_Pri" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Azure_Pri" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" alt="MySQL_Pri" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img aligh="center" alt="Java_Pri" height="30" width="40" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
  ##
