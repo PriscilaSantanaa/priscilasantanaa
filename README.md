@@ -5,7 +5,7 @@ Aqui eu compartilho algumas anotações de cursos e projetos da faculdade. ᓚ�
 
 <div>
   <img align="left" alt="Picrew_Pri" height="130" style="border-radius:100px;"
-src="https://i.pinimg.com/originals/e2/ab/21/e2ab213dcf335c67dc8348c029c19b03.jpg">
+src="https://as2.ftcdn.net/v2/jpg/04/95/79/97/500_F_495799733_BHrl1DvXRMhinW1zJOmG3kFyS8PJ1UXP.jpg">
 </div>
 <div>
   <img align="right" alt="Gatinho_Gif" height="110"
@@ -18,8 +18,8 @@ Alguns recursos e linguagens que utilizo:
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Python_Pri" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Azure_Pri" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="MySQL_Pri" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img aligh="center" alt="Java_Pri" height="30" width="40" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Java_Pri" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  
 </div>
 
  ##
