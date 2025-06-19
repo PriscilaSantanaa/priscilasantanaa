@@ -1,7 +1,6 @@
 ### Olá! Me chamo Priscila. ✨
 
-Sou estudante do curso de Análise e Desenvolvimento de Sistemas do Instituto Federal. Apaixonada por tecnologia, desbravando a área de redes, segurança e inteligência artificial. 
-
+Sou graduada em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo. Tenho 21 anos e desde pequena sou apaixonada pelo mundo da tecnologia! Atualmente estou com meus estudos voltados para a área de DevOps e cloud!
 
 <div>
   <img align="right" alt="Gatinho_Gif" height="110"
