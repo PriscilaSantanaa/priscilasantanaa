@@ -1,7 +1,7 @@
 ### Olá! Me chamo Priscila. ✨
 
-Sou graduada em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo. Tenho 21 anos e desde pequena sou apaixonada pelo mundo da tecnologia! Atualmente estou com meus estudos voltados para a área de DevOps e cloud!
-
+Sou graduada em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo. Tenho 21 anos e desde pequena sou apaixonada pelo mundo da tecnologia! Atualmente estou com meus estudos voltados para a área de DevOps e Cloud!
+Nas horas vagas gosto bastante de me aventurar pelo Photoshop.
 <div>
   <img align="right" alt="Gatinho_Gif" height="110"
 src="https://64.media.tumblr.com/207a2341df673ca4514637f67924506a/tumblr_o4tiytNTVK1u2yfqbo1_400.gif">
