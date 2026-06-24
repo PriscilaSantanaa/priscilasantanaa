@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Estético de Lain -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M3ZDRjYTBhYjAxMmY0YmJiNTg2M2FhNmU3ZTYwY2U0YmNjYmNlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9v9w00caFAvEk/giphy.gif" width="100%" alt="Serial Experiments Lain Banner">
+<img src="https://images.steamusercontent.com/ugc/2010339836500568401/BB5109E36B045BA724C66A4A7302098B4EFEC71E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="100%" alt="Serial Experiments Lain Banner">
 
 # 🌐 Welcome to The Wired 🌐
 
@@ -17,8 +17,9 @@
 ---
 
 </div>
-## 🖥️ sys.config / About Me
 
+## 🖥️ sys.config / About Me
+<br>
 ```text
 User: Priscila
 Status: Connected to the Wired
