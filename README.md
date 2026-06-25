@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&color=39FF14&cyan=true&width=600&center=true&lines=initializing+copland+OS...;present+day%2C+present+time!;close+the+world%2C+ppen+the+nExt.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&color=39FF14&cyan=true&width=600&center=true&lines=initializing+copland+OS...;present+day%2C+present+time!;close+the+world%2C+open+the+nExt.)](https://git.io/typing-svg)
 
 </div>
 
