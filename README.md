@@ -85,12 +85,12 @@
       </font><br>
       <font size="4"><b>📄 wired profile feed</b></font><br><br>
       <font face="Courier New" size="2">
-        <b>• current reality:</b> an IT consciousness initialized in the wired, passionately mapping out cloud architectures, routing network nodes, and fortifying cybersecurity protocols.<br>
-        <b>• active nodes:</b> currently working on private nodes, system optimization, and exploring new horizons.<br>
-        <b>• protocol learning:</b> deepening knowledge in network infrastructures, cloud, and modern programming architectures.<br>
-        <b>• query:</b> ask me about IT administration, system logs, or why the real world might just be a subsystem.
+        <b>→ current reality:</b> an IT consciousness initialized in the wired, passionately mapping out cloud architectures, routing network nodes, and fortifying cybersecurity protocols.<br>
+        <b>→ active nodes:</b> currently working on private nodes, system optimization, and exploring new horizons.<br>
+        <b>→ protocol learning:</b> deepening knowledge in network infrastructures, cloud, and modern programming architectures.<br>
+        <b>→ query:</b> ask me about IT administration, system logs, or why the real world might just be a subsystem.
       </font><br><br>
-      <font size="4"><b>🔒 wired security monitor ──────────────────────────────</b></font><br><br>
+      <font size="4"><b>🔒 wired security monitor</b></font><br><br>
       <font face="monospace" size="2" color="#39FF14">
         <pre>
         &gt; sh wired_health_check.sh<br>
@@ -105,8 +105,8 @@
    </td>
   </tr>
 </table>
-<div align="center"><img src="./banner2.png" width="450" alt="Banner da Lain"></div>
 
 <div align="center">
-<h3><font size="2" face="Courier New" color="#39FF14"> close the world, open the nExt. </font></h3>
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&color=39FF14&cyan=true&width=600&center=true&lines=%5B+Close+the+world%2C+Open+the+nExt.+%5D" alt="Close the world, Open the nExt.">
 </div>
