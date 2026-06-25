@@ -105,8 +105,8 @@
    </td>
   </tr>
 </table>
+<div align="center"><img src="./banner2.png" width="450" alt="Banner da Lain"></div>
 
 <div align="center">
-<br>
 <h3><font size="2" face="Courier New" color="#39FF14"> close the world, open the nExt. </font></h3>
 </div>
